@@ -1,5 +1,5 @@
 def main():
     print("Test")
     print("World")
-    print("WOW")
+    print("WOW Yo")
 main()
